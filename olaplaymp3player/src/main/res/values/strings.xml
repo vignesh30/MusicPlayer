@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ola Play MP3 Player</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_work">MyWork</string>
+    <string name="portfolio1_text">\n\u2022 Idea and developed this application to view funny memes \n\u2022 1,00,000+ downloads \n\u2022 One of the highest rated app in this segment </string>
+     <string name="portfolio2_text">\n\u2022 Meet new people while in travel.
+	 \n\u2022 Idea came up while travelling in local train. Group chat based application to meet travel buddy.
+	\n\u2022 Groups basaed on routine bus/train and can chat to know the current location of the train/bus
+	\n\u2022 Solves waiting time for public transport and creates new networking</string>
+
+
+	 <string name="portfolio3_text">\n\u2022 Application to know offers accross e-commerce sites like flipkart, amazon, snapdeal etc
+	 \n\u2022 Integrated afffilate link and deep links and tracked through Google Analytics</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/history" android:icon="@android:drawable/ic_menu_recent_history"
+            android:title="History" />
+        <item android:id="@+id/playLists" android:icon="@android:drawable/ic_media_play"
+            android:title="Play List" />
+    </group>
+    <item android:title="My Work">
+        <menu>
+            <item android:id="@+id/portfolio" android:icon="@drawable/ic_work_black"
+                android:title="Portfolio" />
+        </menu>
+    </item>
+    <item android:title="Communicate">
+        <menu>
+            <item android:id="@+id/nav_share" android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+        </menu>
+    </item>
+
+</menu>
